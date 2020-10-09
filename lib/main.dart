@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(fontFamily: Configs.IRANSANS),
       home: Scaffold(
         appBar: AppBar(
-          title: Text(),
+          title: Text(""),
         ),
         backgroundColor: Colors.white,
         body: MultiBlocProvider(
